@@ -1,0 +1,1 @@
+set ORACLE_HOME=C:\oracle\instantclient.x64-23.6.0.24.10

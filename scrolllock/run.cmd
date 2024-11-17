@@ -1,0 +1,1 @@
+cscript press.scrolllock.vbs

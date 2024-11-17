@@ -1,0 +1,18 @@
+Run under Anministrator
+Idea: to remove all 3 Windows Update related services
+
+Currecnt state:
+2 services(wuauserv and UsoSvc) were hard removed.
+Access for SYSTEM account to registry for WaaSMedicSvc was denied manually.
+
+
+
+Issues:
+WaaSMedicSvc can not be removed due to 
+[SC] OpenService FAILED 5:
+
+Access is denied.
+
+
+Assumptions:
+Deny access to registry key for SYSTEM account.

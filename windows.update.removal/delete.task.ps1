@@ -1,1 +1,0 @@
-Unregister-ScheduledTask -TaskName "<TaskName>" -Confirm:$false

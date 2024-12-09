@@ -1,0 +1,2 @@
+# 
+sc.exe delete 

@@ -1,0 +1,7 @@
+Chrome if you've got it open.
+Right-click on the Chrome shortcut on your desktop.
+Go ahead and select “Properties.”
+Now, in that Target field, after Chrome.exe", just add a space and paste in--disable-features=UseEcoQoSForBackgroundProcess
+Click “Apply,” then “OK.”
+If your computer asks for administrator permission, click “Continue.”
+Launch Chrome using that shortcut, and if you want to double-check, head to chrome://version to see if the command line flag is there.

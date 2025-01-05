@@ -1,0 +1,1 @@
+Set the preference dom.ipc.processPriorityManager.backgroundUsesEcoQoS to false in about:config to disable efficiency mode.
